@@ -11,7 +11,9 @@
 
 #### * Interview tasks, some were rejected, some were not checked. I will provide tasks i was given in readme files asap.
 
-### I also develop telegram bots and familiar with python-telegram-bot and aiogram libraries. I don't any have finished bots yet, but this is my current main projects:
+### I also develop telegram bots and familiar with python-telegram-bot and aiogram libraries. 
+
+#### I don't have any finished bots yet, but this is my current main projects:
 
 #### [SaraBot](https://github.com/SaraFarron/SaraBot) - Bot that will help improve english vocabulary. Users will be able to upload gheet files that google translator generates or add words manualy and than learn on everyday basis. Expected stack of technologies: aiogram, postgresql, celery (for notifications), docker
 
