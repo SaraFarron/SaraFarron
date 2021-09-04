@@ -9,7 +9,7 @@
 |[857... whatever](https://github.com/SaraFarron/857a3e3e788f40f4b7523fcb9eeb94b6/)*|User can get plots from math functions he/she types in. All in django admin with async task|django, celery, matplotlib, pillow, postgresql, redis, docker|
 |[commentsapi](https://github.com/SaraFarron/commentsapi)*|API that provides comment system with replies for posts|django, django-rest-framework, postgresql, docker|
 
-#### * Interview tasks, some were rejected, some were not checked. I will provide tasks i was given in readme files asap.
+#### * Interview tasks, some were rejected, some were not checked. I provided tasks I was given in readme files.
 
 ### I also develop telegram bots and familiar with python-telegram-bot and aiogram libraries. 
 
