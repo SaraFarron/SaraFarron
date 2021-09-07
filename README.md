@@ -35,8 +35,8 @@
 ### Other info
 
 + Native language - russian
-+ English - intermidiate or 'capable of completing interview': I still working on improving my vocabulary and pronunciation
-+ I am interested in relocating to another country after I graduate (Bachelor's degree in radiophysics) in early summer 2022.
++ English - intermidiate or 'capable of passing interview': I am still working on improving my vocabulary and pronunciation
++ I am interested in relocating to another country or city after I graduate (Bachelor's degree in radiophysics) in early summer 2022.
 
 ## Contacts
 
