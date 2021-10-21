@@ -11,13 +11,17 @@
 
 #### * Interview tasks, some were rejected, some were not checked. I provided tasks I was given in readme files.
 
-### I also develop telegram bots and familiar with python-telegram-bot and aiogram libraries. 
+### I also develop telegram bots. My main library - aiogram and I also familiar with python-telegram-bot. 
 
 #### I don't have any finished bots yet, but this is my current main projects:
 
-#### [SaraBot](https://github.com/SaraFarron/SaraBot) - Bot that will help improve english vocabulary. Users will be able to upload gheet files that google translator generates or add words manualy and than learn on everyday basis. Expected stack of technologies: aiogram, postgresql, celery (for notifications), docker
+#### [SaraBot](https://github.com/SaraFarron/SaraBot)
 
-#### [youtube-bot](https://github.com/SaraFarron/youtube-bot) - Project Dropped. Bot supposed to work with google youtube api, but it's limitations are too tough. This project will may be continued in future with ytbl or similar library.
+Bot that will help improve english vocabulary. Users will be able to upload gheet files that google translator generates or add words manualy and than learn on everyday basis. Expected stack of technologies: aiogram, postgresql, celery (for notifications), docker
+
+#### [youtube-bot](https://github.com/SaraFarron/youtube-bot)
+
+Project Dropped. Bot supposed to work with google youtube api, but it's limitations are too tough. This project will may be continued in future with ytbl or similar library.
 
 
 ### Other fields, I am familiar with
@@ -44,7 +48,7 @@
 
 email - syulinnikita@gmail.com
 
-## My skills in creating algorithms
+## How I started coding
 
 [Codewars Profile](https://www.codewars.com/users/SaraFarron)
 
