@@ -17,7 +17,7 @@
 
 #### [SaraBot](https://github.com/SaraFarron/SaraBot) - Bot that will help improve english vocabulary. Users will be able to upload gheet files that google translator generates or add words manualy and than learn on everyday basis. Expected stack of technologies: aiogram, postgresql, celery (for notifications), docker
 
-#### [youtube-bot](https://github.com/SaraFarron/youtube-bot) - Imagine if you want to subsribe not to youtube channel for all the videos author creates, but only some of them. This bot will (try to) solve this problem. You can send link to youtube channel and then keyword or regex, and if video with such pattern appears on channel, it will send you a link. Expected stack of technologies: aiogram, postgresql, celery (for updating last videos), docker, google api client.
+#### [youtube-bot](https://github.com/SaraFarron/youtube-bot) - Project Dropped. Bot supposed to work with google youtube api, but it's limitations are too tough. This project will may be continued in future with ytbl or similar library.
 
 
 ### Other fields, I am familiar with
