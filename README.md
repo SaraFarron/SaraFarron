@@ -4,24 +4,32 @@
 
 |Project|Description|Technologies used|
 |-------|-----------|-----------------|
-|[blog](https://github.com/SaraFarron/Blog)|Site mini-blog with auth system and api|django, django-rest-framework, pillow, docker, postresql, nginx and gunicorn (temporarly turned off)|
-|[deals](https://github.com/SaraFarron/deals)*|API that resieves csv file of data and stores into db|django, django-rest-framework, docker, gunicorn, nginx|
-|[857... whatever](https://github.com/SaraFarron/857a3e3e788f40f4b7523fcb9eeb94b6/)*|User can get plots from math functions he/she types in. All in django admin with async task|django, celery, matplotlib, pillow, postgresql, redis, docker|
-|[commentsapi](https://github.com/SaraFarron/commentsapi)*|API that provides comment system with replies for posts|django, django-rest-framework, postgresql, docker|
+|[blog](https://github.com/SaraFarron/Blog)|Site mini-blog with auth system and api|django, django-rest-framework, pillow, postresql, (nginx was removed temporarly)|
+|[deals](https://github.com/SaraFarron/deals)*|API that resieves csv file of data and stores into db|django, django-rest-framework, gunicorn, nginx|
+|[857... whatever](https://github.com/SaraFarron/857a3e3e788f40f4b7523fcb9eeb94b6/)*|User can get plots from math functions he/she types in. All in django admin with async task|django, celery, matplotlib, pillow, postgresql, redis|
+|[commentsapi](https://github.com/SaraFarron/commentsapi)*|API that provides comment system with replies for posts|django, django-rest-framework, postgresql|
 
 #### * Interview tasks, some were rejected, some were not checked. I provided tasks I was given in readme files.
 
-### I also develop telegram bots. My main library - aiogram and I also familiar with python-telegram-bot. 
+## Telegram bots
+
+Main library - aiogram and I am also familiar with python-telegram-bot. 
 
 #### I don't have any finished bots yet, but this is my current main projects:
 
 #### [SaraBot](https://github.com/SaraFarron/SaraBot)
 
-Bot that will help improve english vocabulary. Users will be able to upload gheet files that google translator generates or add words manualy and than learn on everyday basis. Expected stack of technologies: aiogram, postgresql, celery (for notifications), docker
+Bot that will help improve english vocabulary. Users will be able to upload gheet files that google translator generates 
+or add words manually and then learn on everyday basis. Expected stack of technologies: 
+aiogram, postgresql, celery (for notifications).
 
 #### [youtube-bot](https://github.com/SaraFarron/youtube-bot)
 
-Project Dropped. Bot supposed to work with google youtube api, but it's limitations are too tough. This project will may be continued in future with ytbl or similar library.
+Project Dropped. Bot supposed to work with google youtube api, but it's limitations are too tough. 
+This project will may be continued in future with ytbl or similar library.
+
+
+#### All projects are built with docker
 
 
 ### Other fields, I am familiar with
