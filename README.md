@@ -27,8 +27,8 @@
 + Libs
   + matplotlib
   + BeautifulSoup
-  + Nginx + gunicorn
-  + REST API
++ Nginx + gunicorn
++ REST API
 
 ## Not as comfortable
 
