@@ -4,12 +4,12 @@
 
 * [Django](https://github.com/SaraFarron/Blog)
 
-## Other completed projects
+## Other projects
 
 | Django                                                                             | Aiogram | FastAPI | Flask |
 |------------------------------------------------------------------------------------|---------|---------|-------|
-| [deals](https://github.com/SaraFarron/deals)*                                      |         |         |       |
-| [857... whatever](https://github.com/SaraFarron/857a3e3e788f40f4b7523fcb9eeb94b6/) |         |         |       |
+| [deals](https://github.com/SaraFarron/deals)*                                      | [time tracker](https://github.com/SaraFarron/code-time-tracker)        | [alpha](https://github.com/SaraFarron/alpha) | [storehouse](https://github.com/SaraFarron/storehouse) |
+| [857... whatever](https://github.com/SaraFarron/857a3e3e788f40f4b7523fcb9eeb94b6/) | | | |
 | [commentsapi](https://github.com/SaraFarron/commentsapi)                           |         |         |       |
 
 ## Tech stack
