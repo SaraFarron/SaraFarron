@@ -1,6 +1,7 @@
 ![👋 Hi, my name is Siulin Nikita](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
 ![Profile views](https://komarev.com/ghpvc/?username=SaraFarron&label=Profile%20views&color=0e75b6&style=flat)
+[![wakatime](https://wakatime.com/badge/user/90f76bca-ddc8-4d20-a64c-1f608d3cabf8.svg)](https://wakatime.com/@90f76bca-ddc8-4d20-a64c-1f608d3cabf8)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
