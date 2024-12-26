@@ -7,7 +7,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, my name is Siulin Nikita
+        👋 Hi, my name is Sara Farron
       </h1>
     </summary>
   </ul>
